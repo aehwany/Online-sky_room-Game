@@ -15,6 +15,6 @@ All the game files included in the .zip folder
 
 # Play online at
 
-http://www.cs.mcgill.ca/~aanich/cgi-bin/room.html  (currently not working because the McGill server hosting this URL is not available)
+http://www.cs.mcgill.ca/~aanich/cgi-bin/room.html  (currently not working because the McGill server account hosting this URL is not available)
 
 
